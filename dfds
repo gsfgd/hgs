@@ -1,2 +1,2 @@
-whilke true do
+while true do
 Script Needed: loadstring(game:HttpGet("UrlHere",true))();
